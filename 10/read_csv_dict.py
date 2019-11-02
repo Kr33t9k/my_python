@@ -1,5 +1,5 @@
 import csv
-file = 'amilekoko.csv'
+file = input('Введите имя файла')
 def csv_reader(file):
     people = []
     try:
