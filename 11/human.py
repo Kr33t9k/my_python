@@ -1,4 +1,3 @@
-# human.py
 class Human:
     def __init__(self, name = 'Акакий Акакиевич Башмачкин'):
         self.name = name
